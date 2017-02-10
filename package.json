@@ -1,0 +1,23 @@
+{
+  "name": "pomegranate-express-pug",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomegranate/pomegranate-express-pug.git"
+  },
+  "keywords": [],
+  "author": "Jim Bulkowski <jim.b@paperelectron.com> (http://paperelectron.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pomegranate/pomegranate-express-pug/issues"
+  },
+  "homepage": "https://github.com/Pomegranate/pomegranate-express-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta11"
+  }
+}
